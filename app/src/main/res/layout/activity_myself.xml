@@ -470,7 +470,7 @@
                     android:layout_marginStart="30dp"
                     android:layout_marginTop="20dp"
                     android:layout_marginEnd="30dp"
-                    android:text="As a BTech student, I have gained a strong foundation in technical skills and knowledge that are essential for success in the field. I am a highly motivated and detail-oriented individual who possesses excellent problem-solving skills. Throughout my academic career, I have demonstrated a strong work ethic and a commitment to achieving academic excellence. I have also gained experience working on various projects, both individually and as part of a team, which has helped me develop my communication and collaboration skills. Overall, I am confident that my skills and experience make me an ideal candidate for any technical position."
+                    android:text="As a B.Tech. student, I have gained a strong foundation in technical skills and knowledge that are essential for success in the field. I am a highly motivated and detail-oriented individual who possesses excellent problem-solving skills. Throughout my academic career, I have demonstrated a strong work ethic and a commitment to achieving academic excellence. I have gained experience working on various projects, both individually and as part of a team, which has helped me develop my communication and collaboration skills. Overall, I am confident that my skills and experience make me an ideal candidate for any technical position."
                     android:textAlignment="center"
                     android:textColor="@color/black" />
             </LinearLayout>
